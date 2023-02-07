@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/raushancrazy" target="blank"><img src="https://img.shields.io/twitter/follow/raushancrazy?logo=twitter&style=for-the-badge" alt="raushancrazy" /></a> </p>
 
-- 🔭 I’m currently working as a CEO [DCT Capital](https://dctcapital.co/)
+- 🔭 I’m currently working as a Team Lead of [DCT Capital](https://dctcapital.co/)
 
 - 🌱 I’m currently buiding **web3 enthusiastic network**
 
